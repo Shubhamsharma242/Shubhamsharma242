@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shubhamsharma242
 -🚀 Ambitious Frontend Developer | Recent Graduate | HTML | CSS | JavaScript | React.js
 
-🎓 Recent graduate with a strong foundation in HTML, CSS, JavaScript, and React.js.
+🎓 Strong foundation in HTML, CSS, JavaScript, and React.js.
 🔧 Eager to apply my skills to develop user-friendly and responsive web applications.
 💡 Detail-oriented with a passion for crafting seamless user experiences.
 🌱 Excited to contribute to innovative projects and grow in the dynamic field of web development.
